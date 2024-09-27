@@ -1,0 +1,10 @@
+/*! =========================================================
+@name             fonts.css
+@description      IOM font family definitions
+============================================================= */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Fira+Mono&display=swap');
+
+html, body { font-family: 'Open Sans', Arial, sans-serif; }
+
+pre, code, kbd, samp { font-family: 'Fira Mono', monospace; }
